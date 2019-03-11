@@ -1,2 +1,2 @@
-- inspired by lindwurm/chattles  
+- inspired by [lindwurm/chattles](https://github.com/lindwurm/chattels/blob/master/books.md)  
 - license in CC-BY 4.0  
