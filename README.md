@@ -1,0 +1,2 @@
+- inspired by lindwurm/chattles  
+- license in CC-BY 4.0  
